@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Flutter,Dart**
 
-- 📫 How to reach me **Midhunpu80@gmail.com**
+- 📫 How to reach me **midhunpu80@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
