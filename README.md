@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://rishavchanda.io)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theaidream.com%2F&psig=AOvVaw22io3mC7pCVNpQGiIRTey0&ust=1710913833949000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLCWhuvQ_4QDFQAAAAAdAAAAABAE)
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Midhunpu80n&label=Profile%20views&color=0e75b6&style=flat" alt="Midhunpu" /> 
