@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/midhun-pu-94a455249/?msgcontrolname=view_message_button&msgconversationid=2-owy1yzbjodetn2jloc00otm5ltk1mjutzjm2mwi4nmuyzmfjxzaxma%3d%3d&msgoverlay=true" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://fb.com/https://www.facebook.com/profile.php?id=100088776914881" target="blank">
+  <a href="https://www.instagram.com/midhun_p.u/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/midhunpu80/" target="blank">
